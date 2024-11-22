@@ -1,9 +1,3 @@
-<h3>Link Wokwi</h3>
-
-Aqui está um exemplo de README bem estruturado e completo para o seu projeto de monitoramento de consumo energético:
-
----
-
 # **Monitor de Consumo Energético com ESP32**
 
 ## **Descrição do Projeto**
