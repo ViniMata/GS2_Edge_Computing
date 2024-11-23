@@ -16,6 +16,11 @@ Este projeto é um sistema de monitoramento de consumo energético utilizando o 
 
 ---
 
+## **Video Explicativo**
+<a>https://youtu.be/DO7dYDHUgcw</a>
+
+---
+
 ## **Componentes Necessários**
 ### **Hardware**
 - ESP32
